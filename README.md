@@ -7,10 +7,15 @@
 <img align="right" alt="Hot Cofee image" src="./hotCofee.png"  width="300px"/>
 
 ## Meu nome é Augusto
-(Java | Spring Boot | Python | Javascript | HTML | CSS ) 🚀
+(Java | Spring Boot | SQL | React ) 🚀
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade [SENAC](https://portal.sc.senac.br/portal/novo/). Atualmente, concentro meus estudos no desenvolvimento de APIs REST, utilizando Java e Spring Boot.
-Sempre tive uma paixão por solucionar problemas e pela tecnologia. Estou em busca da minha primeira oportunidade como desenvolvedor, ansioso para aplicar meus aprendizados e trabalhar com o que realmente amo.
+Atualmente sou Desenvolvedor Backend na Perinity, atuando com tecnologias como Java 8, JSF e PostgreSQL no desenvolvimento e aprimoramento de um software GRC (Governança, Riscos e Compliance). Trabalho em um ambiente ágil com Scrum, colaborando com uma equipe multidisciplinar e lidando com demandas reais do dia a dia. 
+
+Formado em Análise e Desenvolvimento de Sistemas no SENAC, venho ampliando minhas habilidades técnicas por meio de experiências práticas e projetos desafiadores. 
+
+Meu background anterior em hotelaria me trouxe uma base sólida em comunicação e atendimento ao público, habilidades que hoje se traduzem em capacidade de trabalhar em equipe, colaboração e comunicação eficientes. 
+
+Apaixonado por tecnologia desde criança, hoje vivo esse propósito profissionalmente, buscando constantemente aprender, contribuir e crescer como desenvolvedor.
 
 <div align="left">
   

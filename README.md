@@ -9,11 +9,9 @@
 ## Meu nome é Augusto
 (Java | Spring Boot | SQL | React ) 🚀
 
-Atualmente sou Desenvolvedor Backend na Perinity, atuando com tecnologias como Java 8, JSF e PostgreSQL no desenvolvimento e aprimoramento de um software GRC (Governança, Riscos e Compliance). Trabalho em um ambiente ágil com Scrum, colaborando com uma equipe multidisciplinar e lidando com demandas reais do dia a dia. 
+Sou Desenvolvedor Backend, domino tecnologias como Java, Spring Boot, JSF e PostgreSQL. Com conhecimentos em metodologias ágeis como Scrum e Kanban. Formado em Análise e Desenvolvimento de Sistemas no SENAC, curso que me deu habilidades técnicas por meio de experiências práticas e projetos desafiadores.
 
-Formado em Análise e Desenvolvimento de Sistemas no SENAC, venho ampliando minhas habilidades técnicas por meio de experiências práticas e projetos desafiadores. 
-
-Meu background anterior em hotelaria me trouxe uma base sólida em comunicação e atendimento ao público, habilidades que hoje se traduzem em capacidade de trabalhar em equipe, colaboração e comunicação eficientes. 
+Meu background em hotelaria me trouxe uma base sólida em comunicação e atendimento ao público, habilidades que hoje se traduzem em capacidade de trabalhar em equipe, colaboração e comunicação eficientes.
 
 Apaixonado por tecnologia desde criança, hoje vivo esse propósito profissionalmente, buscando constantemente aprender, contribuir e crescer como desenvolvedor.
 

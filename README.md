@@ -17,7 +17,7 @@ Apaixonado por tecnologia desde criança, hoje vivo esse propósito profissional
 
 <div align="left">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoKoch)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoKoch&hide=llvm)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
 
